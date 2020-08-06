@@ -1,4 +1,4 @@
-([Français](#le-nom-du-projet)
+[(Français)](#le-nom-du-projet)
 
 ## Name of the project
 
