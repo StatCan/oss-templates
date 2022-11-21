@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) Her Majesty the Queen in Right of Canada, as represented by the
+Copyright (c) His Majesty the King in Right of Canada, as represented by the
 Minister responsible for Statistics Canada, 2022
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
